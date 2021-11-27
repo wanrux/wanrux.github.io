@@ -25,5 +25,5 @@ Research Interests
 - Migration
 - Marriage and family 
 - Sex ratio imbalance
-- Population aging; 
+- Population aging
 - Population/household projections
