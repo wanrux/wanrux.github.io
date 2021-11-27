@@ -1,10 +1,9 @@
 ---
 permalink: /talks/
-title: ""
+title: "Talks and Presentations"
 author_profile: true
 
 ---
-## Talks and Presentations
 
 * <span style="font-size:1.1em;"> **Skewed Sex Ratios and the Trafficking of Women for Forced Marriage in China**
   * Research Committee on Social Stratification and Mobility, Princeton, Aug 2019
