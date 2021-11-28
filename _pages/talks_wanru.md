@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Talks and Presentations"
+title: ""
 author_profile: true
 
 ---
