@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 
 ---
-1. <span style="font-size:0.9em;">Dynamics between Regional Sex Ratios at Birth and Sex Ratios at Prime Marriageable Ages in China    
+1. <span style="font-size:0.9em;">Dynamics Between Regional Sex Ratios at Birth and Sex Ratios at Prime Marriageable Ages in China    
    Xiong, W.         
    *Population and Development Review* (accepted) 
 1. <span style="font-size:0.9em;">Does the Shortage of Marriageable Women Induce the Trafficking of Women for Forced Marriage? Evidence from China    
