@@ -12,4 +12,4 @@ author_profile: true
    *Violence Against Women*, 2021  [[DOI](https://doi.org/10.1177/10778012211014565)]
 1. <span style="font-size:0.9em;">Evidence of Son Preference in the Child Trafficking Market for Illegal Adoption in China  
    Xiong, W.       
-   *Journal of Human Trafficking*, 2021  [[PDF](https://www.tandfonline.com/eprint/ZSJXJXUSTSDX6HYAGY9F/full?target=10.1080/23322705.2021.1874188)]
+   *Journal of Human Trafficking*, 2021  [[DOI](https://www.tandfonline.com/eprint/ZSJXJXUSTSDX6HYAGY9F/full?target=10.1080/23322705.2021.1874188)]
