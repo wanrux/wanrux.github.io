@@ -7,6 +7,7 @@ author_profile: true
 1. <span style="font-size:0.9em;">Dynamics Between Regional Sex Ratios at Birth and Sex Ratios at Prime Marriageable Ages in China    
    Xiong, W.         
    *Population and Development Review*, 2022  [[DOI](https://doi.org/10.1111/padr.12476)]
+   
    Media coverage: [[N-IUSSP](https://www.niussp.org/gender-issues/a-tendency-towards-attenuation-of-regional-sex-ratio-imbalances-in-china/)]
 1. <span style="font-size:0.9em;">Does the Shortage of Marriageable Women Induce the Trafficking of Women for Forced Marriage? Evidence from China    
    Xiong, W.       
