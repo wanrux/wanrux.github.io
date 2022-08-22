@@ -8,7 +8,7 @@ author_profile: true
    Xiong, W.         
    *Population and Development Review*, 2022  [[DOI](https://doi.org/10.1111/padr.12476)]
    
-   Media coverage: [[N-IUSSP](https://www.niussp.org/gender-issues/a-tendency-towards-attenuation-of-regional-sex-ratio-imbalances-in-china/)]
+   Media coverage: [N-IUSSP](https://www.niussp.org/gender-issues/a-tendency-towards-attenuation-of-regional-sex-ratio-imbalances-in-china/)
 1. <span style="font-size:0.9em;">Does the Shortage of Marriageable Women Induce the Trafficking of Women for Forced Marriage? Evidence from China    
    Xiong, W.       
    *Violence Against Women*, 2021  [[DOI](https://doi.org/10.1177/10778012211014565)]
