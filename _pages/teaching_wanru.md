@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 * <span style="font-size:0.9em;">The Hong Kong University of Science and Technology (Guangzhou), Instructor
-  * <span style="font-size:0.9em;">Professional Development in innovation, Technology, and Social Responsibility (SOCH6780), Fall 2022
+  * <span style="font-size:0.9em;">Professional Development in Innovation, Technology, and Social Responsibility (SOCH6780), Fall 2022
   * <span style="font-size:0.9em;">Program Seminar I  (UGOD6101), Fall 2022
   * <span style="font-size:0.9em;">Program Seminar II (UGOD6102), Spring 2022
 
