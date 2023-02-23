@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Here is my [CV](http://wanrux.github.io/files/CV_Wanru_202301.pdf).
+Here is my [CV](http://wanrux.github.io/files/CV_Wanru_202302.pdf).
 
 <!--
 {% include base_path %}
