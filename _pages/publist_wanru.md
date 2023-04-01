@@ -13,7 +13,7 @@ author_profile: true
    Media coverage: [N-IUSSP](https://www.niussp.org/gender-issues/a-tendency-towards-attenuation-of-regional-sex-ratio-imbalances-in-china/)
 1. <span style="font-size:0.9em;">Does the Shortage of Marriageable Women Induce the Trafficking of Women for Forced Marriage? Evidence from China    
    Xiong, W.       
-   *Violence Against Women*, 2021  [[DOI](https://doi.org/10.1177/10778012211014565)]
+   *Violence Against Women*, 2021  [[DOI](https://doi.org/10.1177/10778012211014565)]                                                                               
    Media coverage: [Zhishifenzi](http://zhishifenzi.com/news/multiple/12134.html)
 1. <span style="font-size:0.9em;">Evidence of Son Preference in the Child Trafficking Market for Illegal Adoption in China  
    Xiong, W.       
