@@ -4,6 +4,11 @@ title: ""
 author_profile: true
 
 ---
+1. <span style="font-size:0.9em;">Co‐Ethnic Networks in Ethnic Minority's Migration Destination Choices   
+   Fu, X. & Xiong, W.       
+   *Population, Space and Place*, 2025  [[DOI](http://dx.doi.org/10.1002/psp.70114)]  
+
+
 1. <span style="font-size:0.9em;">Love is Elsewhere: Internal Migration and Marriage Prospects in China    
    Xiong, W.       
    *European Journal of Population*, 2023  [[DOI](https://doi.org/10.1007/s10680-023-09658-3)]                                        
