@@ -18,4 +18,5 @@ My research uses quantitative methods to examine dynamics between societal demog
 - Marriage and family 
 - Sex ratio imbalance
 - Population aging
+- Gender inequality
 - Population/household projections
