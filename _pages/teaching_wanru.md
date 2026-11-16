@@ -5,9 +5,11 @@ author_profile: true
 
 ---
 * <span style="font-size:0.9em;">The Hong Kong University of Science and Technology (Guangzhou), Instructor
-  * <span style="font-size:0.9em;">Categorical Data Analysis  (UGOD5700), Fall 2025
-  * <span style="font-size:0.9em;">Applied Demography  (UGOD5200), Fall 2023
-  * <span style="font-size:0.9em;">Critical Thinking and Data Literacy in Social Science (UCUG1000), Fall 2023-2025
+  * <span style="font-size:0.9em;">Categorical Data Analysis  (UGOD5700), Fall 2025, Spring 2027
+  * <span style="font-size:0.9em;">Applied Demography  (UGOD5200), Fall 2023, Spring 2026
+  * <span style="font-size:0.9em;">Population and Development in China (UCUG1804), Fall 2026
+  * <span style="font-size:0.9em;">Critical Thinking and Data Literacy in Social Science (UCUG1000), Fall 2023-2026
+  * <span style="font-size:0.9em;">Science of Cities - Urban Governance Module (UGOD5010), Fall 2026
   * <span style="font-size:0.9em;">Professional Development in Innovation, Technology, and Social Responsibility (SOCH6780), Fall 2022-2023
 
 <!--
