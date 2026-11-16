@@ -4,8 +4,8 @@ title: ""
 author_profile: true
 
 ---
-1. <span style="font-size:0.9em;">Child Gender and Single Parents’ Remarriage in China 
-   Zhang, Y. & Xiong, W.       
+1. <span style="font-size:0.9em;">Child Gender and Single Parents’ Remarriage in China   
+   Zhang, Y. & Xiong, W.          
    *Advances in Life Course Research*, 2026  [[DOI](https://authors.elsevier.com/a/1o77n_ZhwEwOZl)]
    
 1. <span style="font-size:0.9em;">Co‐Ethnic Networks in Ethnic Minority's Migration Destination Choices   
